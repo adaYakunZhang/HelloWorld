@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="doctor_intro">Hello World! I am the Doctor and I am a time traveller. The blue police box behind me is my time machine, TARDIS.</string>
+    <string name="button_text">Say hello!</string>
+</resources>
