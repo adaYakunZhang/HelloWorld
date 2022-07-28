@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 I did not understand the concept of event listeners at first but then I did some research and got a better understanding throught the file "Basic Event Listeners".
 
 ## License
