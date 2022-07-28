@@ -10,19 +10,20 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [✅] Image and introductory message displayed on screen
-* [✅] Button displayed on screen
-* [✅] Toast with message appears when button is pressed 
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+Adjusted the difference between each palette to improve the look of the UI.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
@@ -34,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I did not understand the concept of event listeners at first but then I did some research and got a better understanding throught the file "Basic Event Listeners".
 
 ## License
 
